@@ -10,8 +10,8 @@ import os
 # The Control Pi is on and plugged into the host PC and already "on"
 # UART Setup for the Control Pi
 
-# CHANGE THE FOLLOWING PORT DEPENDING ON YOUR COMPUTER AND PI
-serial_port = "/dev/cu.usbmodem1301"
+# CHANGE THE FOLLOWING PORT DEPENDING ON YOUR COMPUTER AND CONTROL PI
+serial_port = "/dev/cu.usbmodem1201"
 baudrate = 115200
 
 # Open the serial connection from the Host PC to the Control Pi
