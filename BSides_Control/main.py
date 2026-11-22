@@ -148,9 +148,9 @@ VictimReadData = bytearray()
 # These are the initial values I have setup, but these should be changed depending on the parameters you would like to invetsigate 
 
 GlitchDelayMin = 40
-GlitchDelayMax = 462000
-GlitchLengthMin = 750
-GlitchLengthMax = 900
+GlitchDelayMax = 500000
+GlitchLengthMin = 10
+GlitchLengthMax = 1000
 
 
 '''  KNOWN RESPONSES  '''
