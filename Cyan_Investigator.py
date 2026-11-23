@@ -1,6 +1,6 @@
 import csv
 
-# Change this file depending on the csv file you are
+# Change this file depending on the csv file you are investigating
 file_to_investigate = "WideScanResults_2026-11-23_00-05.csv"
 
 with open("cyan_data_only_3.csv", "w", newline="") as writefile:
